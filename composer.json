@@ -1,5 +1,5 @@
 {
-    "name": "bernhardh/nova-dynamic-views",
+    "name": "Marko298/nova-dynamic-views",
     "description": "A tool for easier overwriting custom-header and toolbaars in Laravel Nova",
     "keywords": [
         "laravel",
